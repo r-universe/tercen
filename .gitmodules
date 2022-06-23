@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rtson"]
+	path = rtson
+	url = https://github.com/tercen/tson
+	shallow = true
+	subdir = rtson
+	registered = true
